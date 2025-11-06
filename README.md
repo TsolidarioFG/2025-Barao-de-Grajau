@@ -16,6 +16,9 @@
 > SMART-TDAH: Software para Análise Intelixente de Datos e Apoio ao Seguimento de Estudantes con TDAH. Desenvolto como Traballo de Fin de Grao (TFG Solidario / Aprendizaxe-Servizo) por Ángel Álvarez Rey, na mención de Computación do Grao en Enxeñaría Informática da Universidade da Coruña, dentro do programa TFGs Solidarios da Cátedra NTTData Diversidade. O proxecto contou coa avaliación de resultados por parte de profesores expertos en TDAH en colaboración cos Concellos de Barão de Grajaú (Brasil) e Floriano (Brasil). 
 > 
 > Todo o código fonte está dispoñíbel baixo licenza libre **GNU General Public License v3.0 (GPLv3)**.
+>
+> Referencia:
+> Álvarez Rey, Á. (2025). SMART-TDAH: Software para Análise Intelixente de Datos e Apoio ao Seguimento de Estudantes con TDAH [Traballo de Fin de Grao, Universidade da Coruña]. [Repositorio institucional da UDC](https://hdl.handle.net/2183/46149).
 
 ### Índice
 
@@ -148,6 +151,9 @@ Todo o código fonte está dispoñíbel de forma gratuíta nos repositorios do p
 > SMART-TDAH: Software para Análisis Inteligente de Datos y Apoyo al Seguimiento de Estudiantes con TDAH. Desarrollado como Trabajo de Fin de Grado (TFG Solidario / Aprendizaje-Servicio) por Ángel Álvarez Rey, en la mención de Computación del Grado en Ingeniería Informática de la Universidad de La Coruña, dentro del programa TFGs Solidarios de la Cátedra NTTData Diversidad. El proyecto contó con la evaluación de resultados por parte de profesores expertos en TDAH en colaboración con los Ayuntamientos de Barão de Grajaú (Brasil) y Floriano (Brasil).
 > 
 > Todo el código fuente está disponible bajo licencia libre **GNU General Public License v3.0 (GPLv3)**.
+>
+> Referencia:
+> Álvarez Rey, Á. (2025). SMART-TDAH: Software para Análisis Inteligente de Datos y Apoyo al Seguimiento de Estudiantes con TDAH [Trabajo de Fin de Grado, Universidad de A Coruña]. [Repositorio institucional de la UDC](https://hdl.handle.net/2183/46149).
 
 ### Índice
 
@@ -279,6 +285,9 @@ Todo el código fuente del proyecto está **disponible de forma gratuita** en lo
 > SMART-TDAH: Software for Intelligent Data Analysis and Support for Monitoring Students with ADHD. Developed as a Final Degree Project (Solidarity FYP / Service-Learning) by Ángel Álvarez Rey, in the Computer Science specialization of the Degree in Computer Engineering at the University of A Coruña, within the Solidarity FYP program of the NTTData Diversity Chair. The project included evaluation of results by expert teachers in ADHD in collaboration with the municipalities of Barão de Grajaú (Brazil) and Floriano (Brazil).
 > 
 > All source code is available under the free license **GNU General Public License v3.0 (GPLv3)**.
+>
+> Reference:
+> Álvarez Rey, Á. (2025). SMART-TDAH: Software for Intelligent Data Analysis and Support for Monitoring Students with ADHD [Undergraduate Final Project, University of A Coruña]. [UDC Institutional Repository](https://hdl.handle.net/2183/46149).
 
 ### Index
 
@@ -410,6 +419,9 @@ All the source code of the project is **freely available** in the project reposi
 > SMART-TDAH: Software para Análise Inteligente de Dados e Apoio ao Acompanhamento de Estudantes com TDAH. Desenvolvido como Trabalho de Conclusão de Curso (TCC Solidário / Aprendizagem-Serviço) por Ángel Álvarez Rey, na especialização em Computação do Curso de Engenharia da Computação da Universidade da Corunha, dentro do programa TCCs Solidários da Cátedra NTTData Diversidade. O projeto contou com a avaliação dos resultados por parte de professores especialistas em TDAH em colaboração com os Municípios de Barão de Grajaú (Brasil) e Floriano (Brasil).
 > 
 > Todo o código-fonte está disponível sob licença livre **GNU General Public License v3.0 (GPLv3)**.
+>
+> Referência:
+> Álvarez Rey, Á. (2025). SMART-TDAH: Software para Análise Inteligente de Dados e Apoio ao Acompanhamento de Estudantes com TDAH [Trabalho de Conclusão de Curso, Universidade da Corunha]. [Repositório institucional da UDC](https://hdl.handle.net/2183/46149).
 
 ### Índice
 
